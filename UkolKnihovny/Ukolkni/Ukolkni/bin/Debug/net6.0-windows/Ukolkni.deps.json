@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ukolkni/1.0.0": {
+        "dependencies": {
+          "RetezUtil": "1.0.0"
+        },
+        "runtime": {
+          "Ukolkni.dll": {}
+        }
+      },
+      "RetezUtil/1.0.0": {
+        "runtime": {
+          "RetezUtil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ukolkni/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RetezUtil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
