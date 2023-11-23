@@ -23,3 +23,17 @@ C:\Users\svobodah.05\Source\Repos\UkolKnihovny\Ukolkni\RetezUtil\bin\Debug\net6.
 C:\Users\svobodah.05\Source\Repos\UkolKnihovny\Ukolkni\RetezUtil\obj\Debug\net6.0\ref\RetezUtil.dll
 C:\Users\svobodah.05\Source\Repos\UkolKnihovny\Ukolkni\RetezUtil\bin\Debug\net6.0\RetezUtil.xml
 C:\Users\svobodah.05\Source\Repos\UkolKnihovny\Ukolkni\RetezUtil\obj\Debug\net6.0\RetezUtil.xml
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\bin\Debug\net6.0\RetezUtil.deps.json
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\bin\Debug\net6.0\RetezUtil.dll
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\bin\Debug\net6.0\RetezUtil.pdb
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\bin\Debug\net6.0\RetezUtil.xml
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\obj\Debug\net6.0\RetezUtil.csproj.AssemblyReference.cache
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\obj\Debug\net6.0\RetezUtil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\obj\Debug\net6.0\RetezUtil.AssemblyInfoInputs.cache
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\obj\Debug\net6.0\RetezUtil.AssemblyInfo.cs
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\obj\Debug\net6.0\RetezUtil.csproj.CoreCompileInputs.cache
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\obj\Debug\net6.0\RetezUtil.dll
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\obj\Debug\net6.0\refint\RetezUtil.dll
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\obj\Debug\net6.0\RetezUtil.xml
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\obj\Debug\net6.0\RetezUtil.pdb
+C:\Users\svobodah.05\Source\Repos\Ukol1Knih\UkolKnihovny\Ukolkni\RetezUtil\obj\Debug\net6.0\ref\RetezUtil.dll

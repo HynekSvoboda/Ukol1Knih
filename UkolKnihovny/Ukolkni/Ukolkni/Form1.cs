@@ -8,6 +8,7 @@ namespace Ukolkni
         public Form1()
         {
             InitializeComponent();
+            this.CenterToScreen();
         }
 
         private void button1_Click_1(object sender, EventArgs e)

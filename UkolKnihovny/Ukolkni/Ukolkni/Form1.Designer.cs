@@ -74,9 +74,9 @@
             this.label2.Location = new System.Drawing.Point(11, 176);
             this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(38, 15);
+            this.label2.Size = new System.Drawing.Size(10, 15);
             this.label2.TabIndex = 4;
-            this.label2.Text = "label2";
+            this.label2.Text = ".";
             // 
             // label3
             // 
@@ -144,7 +144,7 @@
             this.Controls.Add(this.button1);
             this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.ShowIcon = false;
             this.ResumeLayout(false);
             this.PerformLayout();
 
